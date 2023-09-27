@@ -174,15 +174,28 @@
     background:url(../imges/p_img_1616x924.png);
     background-size: 100%;
 }
-#main_in .main_img h3{
+#main_in .main_img2{
+    width: 808px;
+    height: 462px;
+    background:url(../imges/p_img_slider2.png);
+    background-size: 100%;
+}
+#main_in .main_img3{
+    width: 808px;
+    height: 462px;
+    background:url(../imges/p_img_slider3.png);
+    background-size: 100%;
+}
+#main_in .slide-txt{
     padding:66px 0 0 52px;
     font-size: 36px;
     color: #fff;
 
 }
-#main_in .main_img p{
+#main_in .slide-subtext{
     margin:17px 0 0 52px;
     font-size: 16px;
+    font-weight: 500;
     color: #fff;
 }
 
@@ -429,15 +442,14 @@ color: #ccc;} */
     font-weight: 700;
     color: #666;
 }
-#con .my_card .my_card_b button{
-    border: 0;
-}
+
 #con .my_card .my_card_b .btn_left{
     width: 32px;
     height: 26px;
     position: absolute;
     top:170px;
     left:0;
+   
 }
 #con .my_card .my_card_b .btn_right{
     width:32px ;
